@@ -1,0 +1,22 @@
+{
+  "name": "modulo-7-leccion-1-ejercicio-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "db.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^7.0.2",
+    "fs": "^0.0.1-security",
+    "handlebars": "^4.7.7",
+    "nodemon": "^2.0.21",
+    "pg": "^8.10.0",
+    "pool": "^0.4.1"
+  }
+}
